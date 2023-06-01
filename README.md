@@ -15,7 +15,7 @@ There is currently a known bug in the decipher phase of the implementation. When
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ilia-Abolhasani/data-encryption-etandard.git
+   git clone https://github.com/Ilia-Abolhasani/data-encryption-standard.git
 2. Open the project in your preferred IDE (Integrated Development Environment).
 
 3. Build the project to ensure all dependencies are resolved.
